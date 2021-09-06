@@ -248,3 +248,147 @@ https://tv.teleclub.xyz/live/2/247_MADRE.m3u8
 https://tv.teleclub.xyz/live/2/247_SUPERCAMPEONES.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg", Peliculas 
 https://tv.teleclub.xyz/live/2/247_PELICULAS.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tribunapr.uol.com.br/wp-content/uploads/sites/56/2021/02/19092811/star-channel-1024x683.png",STAR CHANNEL HD
+http://planettvweb.com:8091/isaias2020/isaias2020/16457
+#EXTINF:-1 tvg-logo="https://tribunapr.uol.com.br/wp-content/uploads/sites/56/2021/02/19092811/star-channel-1024x683.png",STAR CHANNEL HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11700
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uUXjj4UiSsU/YKvGSwESG-I/AAAAAAAAcek/OVW6LZgfmBUAXUHbY_6v1O65Q_L12DBrwCPcBGAsYHg/s71/star-life.PNG",STAR LIFE HD
+http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10563
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uUXjj4UiSsU/YKvGSwESG-I/AAAAAAAAcek/OVW6LZgfmBUAXUHbY_6v1O65Q_L12DBrwCPcBGAsYHg/s71/star-life.PNG",STAR LIFE HD
+https://ok.ru/video/2913740725971
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ", FXMOVIES FULL.HD
+http://planettvweb.com:8091/isaias2020/isaias2020/12448
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX HD
+http://planettvweb.com:8091/isaias2020/isaias2020/12451
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX
+https://ok.ru/video/2690180193876
+#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg",CINECANAL FULL.HD
+https://edge1.stg.cvattv.com.ar/live/live2/CinecanalHD/SA_Live_fta/CinecanalHD-video=1972000.m3u8
+#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg",CINECANAL FULL.HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11660
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q0bzUYULfVE/hqdefault.jpg",CINEMA PLUS HD
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/60/37/2d/60372d59-d8a3-daea-7223-8f3caf29be51/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",TELEMON
+https://5790d294af2dc.streamlock.net/8062/8062/chunklist_w1111728551.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Pr0gAr66H3U/YBNnpQ7o3sI/AAAAAAAAawc/KcN-enfqbBs4JQINDw5ydE73FXk36qLaACPcBGAsYHg/s71/amc.PNG", AMC FULL.HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11642
+#EXTINF:-1 tvg-logo="https://miamidiario.com/wp-content/uploads/2018/11/AMC_Black_Hero_Logo-1200x707.jpg", AMC 
+https://ok.ru/video/2690193235540
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1665239.png",A&E FUL.HD 
+http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10546 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FwkZEiSrH_M/maxresdefault.jpg",A&E FUL.HD 
+http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/148716
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-7lYJ0kCNbu4/VosTEYaEepI/AAAAAAAAb6I/y5hJetaa49M/s71-Ic42/tcm.PNG",TCM HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11641
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FULL.HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11641
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS 
+http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/154071
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E22AQFU-hewLkaYVw/feedshare-shrink_800/0/1624421015826?e=1631145600&v=beta&t=qDfZBVPTYDXJfd1-TIsHgYUb5Yv86hpEbSmR-3THd0k",TNT HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11668
+#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/tnt-series.png",TNT SERIES FUL.HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11670
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--4OjePyrro8/YBNnpTBCgtI/AAAAAAAAawc/kieWSNaRXY01ZaSssX48siMgpIxn26UwwCPcBGAsYHg/s71/space.PNG",SPACE FUL-HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11666
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--4OjePyrro8/YBNnpTBCgtI/AAAAAAAAawc/kieWSNaRXY01ZaSssX48siMgpIxn26UwwCPcBGAsYHg/s71/space.PNG",SPACE HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11664
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/X1s9yE33uh0BIQdH3f05lI4-pwYi96VmU215Vj6IdamhY-nBiiSeURD8s_UEVax4O2qH4T2lua72fLV36JA=w70-h71",UNIVERSAL CHANNEL FUL.HD
+http://iptvtree.net:8080/fawkes32/adaa5870d5c0/38719
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/X1s9yE33uh0BIQdH3f05lI4-pwYi96VmU215Vj6IdamhY-nBiiSeURD8s_UEVax4O2qH4T2lua72fLV36JA=w70-h71",UNIVERSAL CHANNEL HD
+http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/155179
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YcXVYNsVWyE/VylV2VLlqII/AAAAAAAAb8A/ZnY3GPUlYAoGlS0QjpIjUmEeHopSRRHEwCCo/s71/studio-universal.PNG", STUDIO CHANNELHD
+http://planettvweb.com:8091/isaias2020/isaias2020/11627
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YcXVYNsVWyE/VylV2VLlqII/AAAAAAAAb8A/ZnY3GPUlYAoGlS0QjpIjUmEeHopSRRHEwCCo/s71/studio-universal.PNG", STUDIO CHANNEL.FULHD
+https://ok.ru/video/2690187468372
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/CMcnNJXtP6-HBauZdDnNDvXsMzXMAu8H1fOZpnqOumjTqQxxa4nBccopFs_Jqf7snKaF4WbUmFHtshuu21I=w70-h71",WARNER CHANNEL FUL.HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11621
+#EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11636
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/352748/syfy-squarelogo-1502779953952.png",SYFY HD usa
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/3173
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",PARAMOUNT CHANNEL HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11842
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",PARAMOUNT CHANNEL HD
+https://ok.ru/video/2690172722772
+#EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/6807462DEAC-0B9C-CAE5-9E84EE3698DB085D.jpg" group-title="Cine",SUNDANCE.TV HD
+http://my.streamerstv.com:25461/maria/maria/165
+#EXTINF:-1 tvg-logo="https://www.mylifetime.com/assets/images/lifetime/generic-thumb.jpg",LIFITIME USA
+http://dimapro.cz:8080/00:1A:79:17:00:9E/ziajdjjfdifjd64646/2432
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2011/05/port.jpg", CINE +
+http://dimapro.cz:8080/00:1A:79:17:00:9E/ziajdjjfdifjd64646/564
+#EXTINF:-1 tvg-logo="https://d1sfco99flnudn.cloudfront.net/www.attsavings.com/images/v2/dtv-select-package-hero.png",DIRECTV CINEMA HD LATINO
+http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/895.png",DIRECTV CINEMA
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1198734123495559169/mSocd0eJ_400x400.jpg", bloody
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1190289688021684225/83z8wBT4.jpg", LMN HD
+http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10830
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShpCW5e6UNmH1VRt0c7k1C2ctufDb4E29H79e8UtAW41huSjhsKdl1EIjnnEObDCDmjM0&usqp=CAU",LIFETIME
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856691
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/1200px-Star_Premium_2021.svg.png",STAR PREMIUM
+https://www.iptvlatinacr.club.127.0.0.1
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q5OMwTNN0u8/YKvGS-kd39I/AAAAAAAAcek/XFEsou2VE8Uako2WpAnm5SJhECTrGyxEQCPcBGAsYHg/s71/star-series.PNG",STAR SERIES HD
+http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/154106
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q5OMwTNN0u8/YKvGS-kd39I/AAAAAAAAcek/XFEsou2VE8Uako2WpAnm5SJhECTrGyxEQCPcBGAsYHg/s71/star-series.PNG",STAR SERIES HD
+https://ok.ru/video/2690181635668
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-acZafVBC3q8/YKvGSyrVB3I/AAAAAAAAcek/CeKL5bwJJlYoOahZORt_tlTfDcm8YcGxgCPcBGAsYHg/s71/star-action.PNG",STAR ACTION FULL.HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11679
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-an5RP2_R2Hc/YKvGSxN5smI/AAAAAAAAcek/biS6D6_J9zwhGdU6VnlvSuZgznBnlptrgCPcBGAsYHg/s71/star-hits.PNG",STAR HITS FULL4K
+http://planettvweb.com:8091/isaias2020/isaias2020/11691
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-an5RP2_R2Hc/YKvGSxN5smI/AAAAAAAAcek/biS6D6_J9zwhGdU6VnlvSuZgznBnlptrgCPcBGAsYHg/s71/star-hits.PNG",STAR HITS HD
+https://ok.ru/video/2690183208532
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3h6PVat4h24/YKvGS7PZniI/AAAAAAAAcek/AGAckdvJRK0vyTIHy3_pIl6m5KwRMXKcwCPcBGAsYHg/s71/star-cinema.PNG",STAR CINEMA HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11681
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rYDUiox_kAI/YKvGSxSQcjI/AAAAAAAAcek/BzNveBbSgNswt-ofORjSJhcAB_PtIb2jgCPcBGAsYHg/s71/star-fun.PNG",STAR FUN HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11689
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rYDUiox_kAI/YKvGSxSQcjI/AAAAAAAAcek/BzNveBbSgNswt-ofORjSJhcAB_PtIb2jgCPcBGAsYHg/s71/star-fun.PNG",STAR FUN HD
+https://ok.ru/video/2690174754388
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RiguFa8zQeQ/YKvGS5JRSjI/AAAAAAAAcek/PFHA4hVfR5EQ8I_rkGnA3YX5vqQTaq_igCPcBGAsYHg/s71/star-classics.PNG",STAR CLASSICS HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11686
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5KBUqBO2MAI/YKvGS7X4CWI/AAAAAAAAcek/h_7_-LCXA_gaCZexjWnnHGNc3c8dySeTwCPcBGAsYHg/s71/star-comedy.PNG",STAR COMEDY FULL.HD
+http://planettvweb.com:8091/isaias2020/isaias2020/12450
+
+
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/assets/img/nuevos/logo_hboGallery.png",HBO HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11650
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/assets/img/nuevos/logo_hboGallery.png",HBO FULL.HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11649
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qC7ghLa.png" group-title="CINE PREMIUM",HBO 2 FUL-HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11656
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11652
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-yE2jJ7IxE4M/Woth2XSZilI/AAAAAAAAAZU/iMmNkbfVY2MLrOZ0VTZRNoesboqnP4kCwCLcBGAs/s1600/cinemax.png",CINEMAX FULL.HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11673
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png",HBO PREMIUM
+https://s.vdo.ai/vhs/1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/400px-Logohboplus2019.svg.png",HBO + HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11646
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/400px-Logohboplus2019.svg.png",HBO + HD
+https://ok.ru/video/4424992759367
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UGaYEWSzE2evnvF94A8klX5ntuAftJzeKGYT-xSLds2Hduh5diCO-CKbLgcK1_Gw8w4&usqp=CAU",HBO XTREME FULL.4K
+http://planettvweb.com:8091/isaias2020/isaias2020/16285
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJhR2q3u8n2difYoRUJ6BWL4hw8ZvYBWM8MHOhfxG5X22Cor2G_I0d2yxS1M_Dvs-cm0&usqp=CAU",HBO MUNDI HD
+http://planettvweb.com:8091/isaias2020/isaias2020/16290
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdNhTNwSlZv7rSJO-HCTHxfW-Zfm2roeCxg&usqp=CAU",HBO POP FUL-HD
+http://planettvweb.com:8091/isaias2020/isaias2020/16284
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/q5WQtk8hkk7_AWGprMRo_CjVl3JLckJu8pzPmMz70-Od6Yg_-40U3rwbYJjTML03mrTQOmlx7OOvLVXHJCw=w70-h71",HBO SIGNATURE HD
+http://planettvweb.com:8091/isaias2020/isaias2020/11657
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/q5WQtk8hkk7_AWGprMRo_CjVl3JLckJu8pzPmMz70-Od6Yg_-40U3rwbYJjTML03mrTQOmlx7OOvLVXHJCw=w70-h71",HBO SIGNATURE HD
+https://micine.club/87/fastcgi.m3u8
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1111245.jpg", HBO ZONE HD
+http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/17250
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1111245.jpg", HBO ZONE 
+http://185.66.143.240:25461/live/franky/franky/927.m3u8
+#EXTINF:-1 tvg-logo="https://wtcks.com/images/channels/logos/hbocomedy.png", HBO COMIDI HD
+http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/17257
+#EXTINF:-1 tvg-logo="https://wtcks.com/images/channels/logos/hbocomedy.png", HBO COMIDI
+http://185.66.143.240:25461/live/franky/franky/235.m3u8
